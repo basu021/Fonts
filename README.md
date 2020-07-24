@@ -15,3 +15,6 @@
 4. $ `cd Fonts`
 5. $ `chmod +x *`
 6. $ `bash run.sh`
+### Screenshot
+<img src="https://github.com/basu021/Fonts/blob/master/files/ss.png"><br>
+
